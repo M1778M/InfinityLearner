@@ -1,0 +1,10 @@
+numpy==1.21.5
+matplotlib==3.5.1
+pandas==1.4.2
+pywin32==308
+PyQt6==6.8.0
+PyQt6-Charts==6.8.0
+wmi==1.5.1
+google-generativeai==0.8.4
+python-dotenv==1.0.1
+psutil
