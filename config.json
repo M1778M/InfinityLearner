@@ -1,0 +1,29 @@
+{
+    "lessons": {},
+    "stats": {
+        "points": 0,
+        "started_date": "2025-01-26",
+        "predicted_end_date": null,
+        "progress": [],
+        "skipped_days": 0,
+        "total_time_spent": 0,
+        "consecutive_study_days": 0
+    },
+    "settings": {
+        "max_skipped_days": 1,
+        "strict_mode": true,
+        "theme": "#34ff10",
+        "scheduled_time": "18:00",
+        "admin_password": "3cf5d2e45f106ae553ed6afd8451eebd76a749a4428f8680431180d63e048c35",
+        "password_salt": "xlib"
+    },
+    "rewards": {
+        "history": [],
+        "cooldowns": {},
+        "5min_breaks": 3,
+        "15min_breaks": 1,
+        "extra_days": 1,
+        "theme_color": "#2D2D2D",
+        "5_minute_break_remaining": 3
+    }
+}
